@@ -1,3 +1,3 @@
 ## Hey, this is Taskbear PTY LTD 👋
 
-![logo](assets/logo.png)
+![logo]("https://taskbear.com.au/summary_large_image.png")
